@@ -116,7 +116,7 @@ cursor.execute(query)
 ## 3. Clone and Run the Project
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-username/SQL-CRUD-Project.git
+git clone https://github.com/ARONAGENT/SQL-Crud-Python.git
 cd SQL-CRUD-Project
 ```
 
